@@ -1,10 +1,10 @@
 # moon-animator-2
 This was made because the original owner was (probably) inactive it uses the files which is in the original repository
 
-Credits to https://github.com/zildjibian/moon-animator
+## Credits to https://github.com/zildjibian/moon-animator
 
 # Other stuff
-This is copied and pasted from the 
+This is copied and pasted from the original repository
 
 ## Support Moon Animator 2
 - [Patreon](https://www.patreon.com/moonanimator)
